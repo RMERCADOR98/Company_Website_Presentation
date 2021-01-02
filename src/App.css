@@ -1,7 +1,6 @@
-
-*{
-  margin:0;
-  padding:0;
+* {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -13,4 +12,8 @@
 }
 ::-webkit-scrollbar-track {
   background: white;
+}
+
+a:hover {
+  color: #d1d1d1;
 }

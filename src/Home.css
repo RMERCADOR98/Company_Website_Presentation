@@ -1,0 +1,12 @@
+h6 {
+  transition: 0.3s;
+}
+
+h6:hover {
+  color: #8c8c8c;
+  transform: scale(1.05);
+}
+
+/* #logo {
+  border: 5px solid #555;
+} */
