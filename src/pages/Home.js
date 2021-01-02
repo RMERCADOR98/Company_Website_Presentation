@@ -43,7 +43,7 @@ const Home = () => {
               fontSize: "10rem",
             }}
           >
-            Future now
+            Future now new!
           </h1>
           <a
             style={{
